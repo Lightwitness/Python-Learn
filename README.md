@@ -7,4 +7,3 @@ Django1.8.2中文文档：http://python.usyiyi.cn/django/index.html
 简易搭建博客教程：https://andrew-liu.gitbooks.io/django-blog/content/
 Tango with Django 中文文档:http://hackerxu.com/Twd/
 
-诺亚方舟漂流记:http://www.bilibili.com/video/av3419139/index_6.html
